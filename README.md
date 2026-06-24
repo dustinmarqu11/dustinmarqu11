@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dustin 👋
 
-<!--
-**dustinmarqu11/dustinmarqu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BSIT Student at Cavite State University
+- Learning C++, Python, Java, HTML, and JavaScript
+- Interested in Software Development and IT Support
+- Currently building my programming portfolio
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- Java
+- HTML
+- JavaScript
+- Windows Installation
+- Computer Troubleshooting
+- Basic Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Python Calculator
+- Student Grading System
+- Inventory Management System
+
+## Contact
+Email: dustinmarqu@gmail.com
